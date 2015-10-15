@@ -1,5 +1,8 @@
 == README
 
+Tuesday's work with Alex - version 1 completed with views written in HAML
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
